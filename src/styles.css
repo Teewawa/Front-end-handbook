@@ -1,0 +1,19 @@
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+.navigation-menu {
+    display: flex;
+    justify-content: space-evenly;
+     flex-flow: column wrap;
+    width: 100px;
+    
+}
+
+.nav-link {
+    border: 1px solid lightseagreen;
+    padding: 20px;
+    flex: 1
+    
+}
